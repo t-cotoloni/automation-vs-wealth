@@ -1,0 +1,8 @@
+,(1) RSH,(2) Demand,(3) Horse race,(4) + controls,(5) 2SLS-IV
+RSH (routine share),0.124*** (0.029),-,0.096*** (0.027),0.173*** (0.032),0.149*** (0.056)
+Delta top wage (P90),-,0.048*** (0.013),0.037*** (0.013),0.012 (0.014),-
+Delta college labour supply,-,-,-,-0.110*** (0.029),-
+Offshorability,-,-,-,-0.005 (0.003),-
+State & time FE,No,No,No,No,Yes
+Instrument (1950 mix),No,No,No,No,Yes
+N,2166,2166,2166,2166,2166
